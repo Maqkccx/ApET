@@ -61,4 +61,12 @@ Our codebase is adapted from [VScan](https://github.com/Tencent/SelfEvolvingAgen
 
 
 ## 📌 BibTeX & Citation
-If you find this paper and code useful, please kindly cite our work:
+If you find our paper and code useful in your research, please consider giving a star and citation.
+
+```BibTeX
+@article{ma2026apet,
+  title={ApET: Approximation-Error Guided Token Compression for Efficient VLMs},
+  author={Ma, Qiankun and Zhang, Ziyao and Wang, Haofei and Chen, Jie and Song, Zhen and Zheng, Hairong},
+  journal={arXiv preprint arXiv:2602.19870},
+  year={2026}
+}

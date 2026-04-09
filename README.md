@@ -1,4 +1,4 @@
-# [CVPR 2026] ApET: Approximation-Error Guided Token Compression for Efficient VLMs
+# [CVPR 2026 Highlight] ApET: Approximation-Error Guided Token Compression for Efficient VLMs
 
 ## 👀 Overview
 TL;DR ApET introduces an attention-free, approximation-error guided token compression framework for VLMs that maximally preserves visual information by pruning tokens with minimal linear reconstruction error, enabling seamless FlashAttention integration while retaining 95.2% performance at 88.9% compression ratios.

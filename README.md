@@ -56,6 +56,11 @@ Additionally, adjust the following hyper-parameters based on your experimental c
 - `--basis_token_num`: Number of basis tokens for decomposition.
 
 
+**For Qwen models, please refer to the [Qwen-2.5-VL codebase](https://github.com/QwenLM/Qwen3-VL).**
+
+**For Video-LLaVA models, please refer to the [Video-LLaVA codebase](https://github.com/PKU-YuanGroup/Video-LLaVA).**
+
+
 ## 🙏Acknowledgements
 Our codebase is adapted from [VScan](https://github.com/Tencent/SelfEvolvingAgent) and [PyramidDrop](https://github.com/Cooperx521/PyramidDrop). We thank the authors for releasing their code! We also thank the authors of [LLaVA](https://github.com/haotian-liu/LLaVA), [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) and [Qwen-2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) for their open-sourced models and well-written instructions.
 

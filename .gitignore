@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Video-LLaVA local artifacts
+video-llava/**/__pycache__/
+video-llava/.idea/
+video-llava/result/
+video-llava/cache_dir/
+video-llava/checkpoints/
+video-llava/outputs/
+video-llava/videollava/eval/table/results/
+*.pyc
